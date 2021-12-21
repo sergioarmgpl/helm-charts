@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  app-demo:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2021-12-20T20:38:14.973259-06:00"
+    description: App Helm Chart Demo
+    digest: 50d9b18837594805e409db9a8623d1e7fcf1e772b504c5fc1c1f774dde3e4418
+    name: app-demo
+    type: application
+    urls:
+    - https://sergiops.xyz/helm-charts/app-demo-0.0.1.tgz
+    version: 0.0.1
+generated: "2021-12-20T20:38:14.972841-06:00"
